@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-03-04 21:00",
+  "items": [
+    {
+      "title": "示例：这是一条新闻标题",
+      "url": "https://example.com",
+      "summary": "这是摘要。后续会由 n8n 自动生成并覆盖更新。",
+      "source": "Example",
+      "category": "综合",
+      "published_at": "2026-03-04"
+    }
+  ]
+}
