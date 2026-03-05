@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-03-05T12:42:10.535Z",
+  "updated_at": "2026-03-05T12:45:32.428Z",
   "items": [
     {
       "idx": 1,
       "id": "",
-      "title": "员工为早下班报假炸弹，在度假屋被捕",
-      "summary": "北马其顿奥斯拉梅伊矿业能源联合公司的一名员工因报假炸弹以提前下班而被捕。",
-      "url": "https://n1info.rs/region/radnik-prijavio-laznu-bombu-da-bi-ranije-otisao-s-posla-uhapsili-ga-u-vikendici/",
-      "source": "",
-      "category": "Region,Severna Makedonija,lažna dojava,hapšenje,radnik",
-      "published_at": "2026-03-05T12:40:26.000Z"
+      "title": "波黑边境今晨遣返百余辆卡车，约2000吨货物被困",
+      "summary": "波黑今日面临严重的国际公路运输中断，超过一百辆运输车辆被从欧盟边境遣返，约两千吨货物滞留途中，无法运抵欧洲市场。",
+      "url": "https://www.danas.rs/vesti/ekonomija/sa-granice-bih-prema-eu-jutros-vraceno-vise-od-stotinu-kamiona-zarobljeno-oko-2-000-tona-robe/",
+      "source": "Suzana Peljto",
+      "category": "Ekonomija,BiH,granica,kamioni,Vraćanje",
+      "published_at": "2026-03-05T12:42:59.000Z"
     },
     {
       "idx": 2,
       "id": "",
-      "title": "“就等武契奇宣布紧急状态，只要无政府状态开始”，瓦拉查尔茨头目给同伙的信息",
-      "summary": "特别法庭通过展示“天空”信息，继续审理被控犯有三起严重谋杀和六起谋杀未遂的“瓦拉查尔茨”团伙成员。",
-      "url": "https://n1info.rs/vesti/ceka-se-vucic-da-proglasi-vanredno-stanje-samo-da-krene-anarhija-poruka-vodje-vracaraca-saradniku/",
+      "title": "（博客）中东战火蔓延：以色列与伊朗互相袭击，阿联酋遇袭，塞浦路斯拉响警报",
+      "summary": "以色列和伊朗在中东战争进入第六天之际发动新的袭击。以色列对黎巴嫩和伊朗实施了打击，称击中了火箭发射器。",
+      "url": "https://n1info.rs/svet/blog-sesti-dan-rata-na-bliskom-istoku-izrael-pogodio-lanser-raketa-u-komu-eksplozije-u-teheranu-iran-uzvraca/",
       "source": "",
-      "category": "Vesti,Specijalni sud,Vračarci,Nikola Vušović,suđenje,skaj poruke",
-      "published_at": "2026-03-05T12:39:40.000Z"
+      "category": "Svet,Bliski istok,Izrael,SAD,napadi,Iran,rat u Iranu",
+      "published_at": "2026-03-05T12:41:42.000Z"
     }
   ]
 }
